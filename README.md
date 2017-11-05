@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-This 2D platformer project is being created as a fun learning experience and jam contribution for https://itch.io/jam/game-off-2017. The project was started with no experience
+This 2D platformer project is being created as a fun learning experience and jam contribution for: 
+* [Game Off - Jam on Itch.io](https://itch.io/jam/game-off-2017)
 
 ## Built With
 The project is built using Unity 2017 (Personal Edition), and several free utilities to help streamline the creation process.
