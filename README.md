@@ -21,6 +21,6 @@ C# - most knowledge is being learned through various tutorials on youtube, and f
 
 ## Special Thanks
 
-* Sebastian Lague - for providing such excellent tutorials and knowledge in Untiy and C# via https://github.com/SebLague & https://www.youtube.com/user/Cercopithecan
+* Sebastian Lague - for providing such excellent tutorials and knowledge in Untiy and C# via [GitHub](https://github.com/SebLague) & [YouTube](https://www.youtube.com/user/Cercopithecan)
 * itch.io - Giving community to incoming and seasoned game developers.
 * GitHub - Bringing developers and creators alike together to share and collaborate their code.
